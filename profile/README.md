@@ -2,4 +2,4 @@
 
 ## Repositories:
   - Business Documentation : https://github.com/ArgentWorks/Argent-Business
-  - (Documentation Site)[https://github.com/ArgentWorks/Docs]
+  - [Documentation Site](https://github.com/ArgentWorks/Docs)
