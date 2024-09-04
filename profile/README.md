@@ -1,3 +1,7 @@
-# Argent Cabinet Organization Public Github Readme File...
+# Argent Works Organization Public Github Readme File...
 
-More to come.
+![ArgentWorks Logo](Angled.png)
+
+The Argent Works Organization's Github Home.
+
+    
